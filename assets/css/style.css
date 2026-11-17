@@ -171,6 +171,8 @@ html, body {
 }
 
 .site-logo img {
+    height: 100px;
+    width: auto;
     padding-bottom: 2px;
 }
 
