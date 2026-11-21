@@ -4600,6 +4600,11 @@ input[type="button"].btn-block {
   white-space: nowrap;
 }
 
+.navbar-brand img {
+    transform: scale(1.0);
+    transform-origin: left center;
+}
+
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
 }
@@ -11328,6 +11333,7 @@ pre {
 }
 
 #map {
+  pointer-events: none;
   position: absolute;
   bottom: 0;
   left: 0;
