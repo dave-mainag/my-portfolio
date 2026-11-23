@@ -1,17 +1,26 @@
-Steller Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+# David Githaiga | Personal Portfolio
 
-Product Page: https://wwww.devcrud.com/
+My personal portfolio showcases my professional background, technical skills, research interests, and selected projects in biology, bioinformatics, data science, and applied AI.
 
-Credits:
+## Live Website
 
-    Demo Images:
-        Unsplash:       (https://www.unsplash.com)
+🔗 **[View the live site](https://my-portfolio-silk-phi-63.vercel.app)**
 
-    Icons:
-		Themify Icons (https://themify.me/themify-icons)
+![Portfolio screenshot](./screenshot.png)
 
-	Other:
-		jQuery (https://www.jquery.com)
-		Bootstrap (https://www.getbootstrap.com)
-		Bootstrap Affix (http://getbootstrap.com/javascript/#affix) 
+## Built With
 
+HTML5 · CSS3 · JavaScript · Bootstrap · Deployed on Vercel
+
+
+## Overview
+
+The portfolio highlights my research experience, technical capabilities, and projects at the intersection of biological sciences and computational research.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/david-githaiga-14272490/) · [Email](davihgm@gmail.com) 
+
+---
+
+© David Githaiga
